@@ -1,2 +1,4 @@
 DOMAIN-SUFFIX,amateursubs.com
 DOMAIN-SUFFIX,anibd.app
+DOMAIN-SUFFIX,animeapps.top
+DOMAIN-SUFFIX,jsdelivr.net
