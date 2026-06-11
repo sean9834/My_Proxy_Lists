@@ -3,3 +3,15 @@ DOMAIN-SUFFIX,anibd.app
 DOMAIN-SUFFIX,animeapps.top
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,ims2.top
+DOMAIN-SUFFIX,acg.bi
+DOMAIN-SUFFIX,v2ph.com
+DOMAIN-SUFFIX,bandisoft.app
+DOMAIN-SUFFIX,bandisoft.com
+DOMAIN-SUFFIX,knit.bid
+DOMAIN-SUFFIX,taotu.org
+DOMAIN-SUFFIX,lolowu.net
+DOMAIN-SUFFIX,lolowu.org
+DOMAIN-SUFFIX,nakaes.com
+DOMAIN-SUFFIX,potofu.me
+DOMAIN-SUFFIX,353355.xyz
+DOMAIN-SUFFIX,vps.hosting
